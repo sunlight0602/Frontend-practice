@@ -1,2 +1,3 @@
 # Frontend-practice
-test
+npm start
+
